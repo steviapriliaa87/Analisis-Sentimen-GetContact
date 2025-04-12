@@ -65,7 +65,7 @@ Berikut adalah perbandingan akurasi dari masing-masing model klasifikasi sentime
 |----------------------------|----------|
 | LSTM + Embedding (80/20)   | **95.40%** |
 | SVM + TF-IDF (80/20)       | **92.43%** |
-| Random Forest + TF-IDF (80/20) | **88.55%** |
+| Random Forest + TF-IDF (80/20) | **86.55%** |
 
 > Model LSTM memberikan performa terbaik dalam klasifikasi sentimen ulasan pengguna aplikasi GetContact.
 
