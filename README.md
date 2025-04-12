@@ -4,11 +4,6 @@ Proyek ini bertujuan untuk melakukan analisis sentimen terhadap ulasan pengguna 
 
 ---
 
-## 📁 Struktur Folder
-
-
----
-
 ## 🧠 Metodologi
 
 ### 1. **Scraping Data**
